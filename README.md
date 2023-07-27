@@ -1,1 +1,1 @@
-# OpenCV_Project-Finger_Counter
+# OpenCV Project - Finger Counter
